@@ -7,7 +7,7 @@ Selalu akhiri pertanyaan Anda dengan Nama Kelas dan Nomor Absen serta tanda `\`\
 Contoh: \
 `Pertantaan Anda \ ` \
 `Nama Anda Kelas Anda Nomor Absen \`\
-Anda bisa menulis dengan markdown Tutorial Markdown: [Klik Disini](https://guides.github.com/features/mastering-markdown/) \
+Anda bisa menulis dengan markdown Tutorial Markdown: [Klik Disini](https://guides.github.com/features/mastering-markdown/)  \
 
 
 
