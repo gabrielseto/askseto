@@ -8,7 +8,9 @@ Contoh: \
 `Pertantaan Anda \ ` \
 `Nama Anda Kelas Anda Nomor Absen \`\
 Anda bisa menulis dengan markdown Tutorial Markdown: [Klik Disini](https://guides.github.com/features/mastering-markdown/)  \
-Gabriel Seto 7F/10 [Telegram](t.me/wildflowerhurricane) 
+Gabriel Seto 7F/10 [Telegram](t.me/wildflowerhurricane) \
+\
+***
 
 
 
