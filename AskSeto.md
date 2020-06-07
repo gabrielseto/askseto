@@ -11,6 +11,7 @@ Anda bisa menulis dengan markdown Tutorial Markdown: [Klik Disini](https://guide
 Gabriel Seto 7F/10 [Telegram](t.me/wildflowerhurricane) \
 
 ===
-
+Kita kapan masuk sekolah ya? \
+Anonymous [Contact](t.me/IDGOV) 
 
 
