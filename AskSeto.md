@@ -12,6 +12,8 @@ Gabriel Seto 7F/10 [Telegram](https://t.me/wildflowerhurricane)
 
 === \
 Kita kapan masuk sekolah ya? \
-Anonymous • [Contact](https://t.me/IDGOV) 
+Anonymous • [Contact](https://t.me/IDGOV)  \
+**ANSWERED BY GABRIEL SETO** • [Contact](https://t.me/wildflowerhurricane) 
+`Belum tahu kapan masuk sekolah, perkiraan Januari 2020 sudah mulai masuk`
 
 
